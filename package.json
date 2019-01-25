@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "rgawenda"
+  },
+  "bugs": {
+    "url": "https://github.com/rgawenda/dtapkey/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Press modifier key (Control, Shift, Alt) twice to launch a command. Based upon Mechazawa's shift-shift-command-palette",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/rgawenda/dtapkey#readme",
+  "keywords": [
+    "atom"
+  ],
+  "license": "Unlicense",
+  "main": "./lib/main",
+  "name": "dtapkey",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgawenda/dtapkey.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
