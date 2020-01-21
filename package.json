@@ -1,9 +1,9 @@
 {
   "author": {
-    "name": "rgawenda"
+    "name": "netizen-ais"
   },
   "bugs": {
-    "url": "https://github.com/rgawenda/dtapkey/issues"
+    "url": "https://github.com/netizen-ais/dtapkey/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -11,7 +11,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/rgawenda/dtapkey#readme",
+  "homepage": "https://github.com/netizen-ais/dtapkey#readme",
   "keywords": [
     "atom"
   ],
@@ -20,7 +20,7 @@
   "name": "dtapkey",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rgawenda/dtapkey.git"
+    "url": "https://github.com/netizen-ais/dtapkey.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
